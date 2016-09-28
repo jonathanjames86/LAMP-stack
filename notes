@@ -1,0 +1,32 @@
+//Weekly typed language.
+<?php
+
+  $message = "Hello World";
+  echo $message;
+
+?>
+//Closing tag is only necessary with html
+
+<?=$message?> shorthand
+
+
+reserved key words like JavaScript
+
+
+Basics
+Comments
+// C++ comment
+/* c-style */
+# Shell style comment
+
+classes
+
+class Company
+{
+not case Sens
+}
+
+
+function companyName(){
+not case sensitive
+}
