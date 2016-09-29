@@ -1,4 +1,4 @@
-//Weekly typed language.
+//Weakly typed language.
 <?php
 
   $message = "Hello World";
@@ -30,3 +30,6 @@ not case Sens
 function companyName(){
 not case sensitive
 }
+
+
+Laravel  A MVC framework

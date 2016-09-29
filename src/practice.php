@@ -17,7 +17,7 @@
 
   $scientific = 0.1234e4;//SN
   $scientific = 1234e-4; //negative power
-
+  var_dump($regInt);
 
   //Constants
 
@@ -25,6 +25,17 @@
 
     echo NEW_CONSTANT;
 
-  var_dump($regInt);
+    //IS INTEGER
+    echo is_int($variable);
+    //will return 1 if true, nothing if false
+
+    //String
+    echo is_string($variable);
+
+    echo is_bool
+    echo is_float
+
+    echo defined('PASS_CONSTANT');
+    
 
 ?>
